@@ -13,6 +13,12 @@ theme:
 
 nav:
     - IT用語読み方まとめ: index.md
+    - プログラミング言語: programming_language.md
+    - ライブラリ:
+      - JavaScript: library/javascript.md
+      - Python: library/python.md
+      - モバイル: library/mobile_app.md
+      - テストツール: library/testing.md
     - SaaS: saas.md
     - クラウドサービスプラットフォーム:
       - AWS: cloud_service_platform/aws.md
