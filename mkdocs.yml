@@ -1,0 +1,25 @@
+site_name: IT用語読み方まとめ
+docs_dir: 'docs'
+
+
+theme:
+  name: material
+  language: ja
+  icon:
+    logo: material/book-open-variant
+    repo: fontawesome/brands/git-alt
+  features:
+    - tabs
+
+nav:
+    - はじめに: index.md
+
+markdown_extensions:
+    - admonition
+    - codehilite:
+        linenums: true
+        guess_lang: false
+        use_pygments: false
+        noclasses: true
+    - toc:
+        permalink: true
