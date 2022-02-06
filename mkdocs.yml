@@ -15,12 +15,14 @@ nav:
     - IT用語読み方まとめ: index.md
     - プログラミング言語: programming_language.md
     - ライブラリ:
+      - CSS: library/css.md
       - JavaScript: library/javascript.md
       - Python: library/python.md
+      - 仮想環境: library/vm.md
       - モバイル: library/mobile_app.md
       - テストツール: library/testing.md
     - SaaS: saas.md
-    - クラウドサービスプラットフォーム:
+    - クラウドプラットフォーム:
       - AWS: cloud_service_platform/aws.md
 
 markdown_extensions:

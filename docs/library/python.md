@@ -1,5 +1,11 @@
 ## Python
 
+### Bandit(バンディット)
+https://github.com/PyCQA/bandit
+
+### Flake8(フレイクエイト)
+https://flake8.pycqa.org/en/latest/
+
 ### Django(ジャンゴ)
 https://docs.djangoproject.com/ja/
 
