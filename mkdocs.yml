@@ -12,7 +12,10 @@ theme:
     - tabs
 
 nav:
-    - はじめに: index.md
+    - IT用語読み方まとめ: index.md
+    - SaaS: saas.md
+    - クラウドサービスプラットフォーム:
+      - AWS: cloud_service_platform/aws.md
 
 markdown_extensions:
     - admonition
