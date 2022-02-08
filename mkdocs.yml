@@ -22,6 +22,7 @@ nav:
       - モバイル: library/mobile_app.md
       - テストツール: library/testing.md
     - SaaS: saas.md
+    - OS: os.md
     - クラウドプラットフォーム:
       - AWS: cloud_service_platform/aws.md
 
