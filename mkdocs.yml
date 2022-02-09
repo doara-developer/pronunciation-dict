@@ -18,11 +18,13 @@ nav:
       - CSS: library/css.md
       - JavaScript: library/javascript.md
       - Python: library/python.md
-      - 仮想環境: library/vm.md
       - モバイル: library/mobile_app.md
       - テストツール: library/testing.md
+    - インフラ:
+      - OS: infra/os.md
+      - サーバー: infra/server.md
+      - 仮想環境: infra/vm.md
     - SaaS: saas.md
-    - OS: os.md
     - クラウドプラットフォーム:
       - AWS: cloud_service_platform/aws.md
 

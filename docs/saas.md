@@ -12,6 +12,9 @@ https://about.gitlab.com/
 ### IFTTT(イフト)
 https://ifttt.com/
 
+### Integromat(インテグロマット)
+https://www.integromat.com/en
+
 ### Tableau(タブロー)
 https://www.tableau.com/ja-jp
 
