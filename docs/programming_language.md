@@ -3,36 +3,36 @@
 ### C#(シーシャープ)
 
 ### Dart(ダート/ダーツ)
-https://dart.dev/
+[Link](https://dart.dev/)
 
 ### Elixir(エリクサー)
-https://elixir-lang.jp/
+[Link](https://elixir-lang.jp/)
 
 ### Haskel(ハスケル)
-https://www.haskell.org/
+[Link](https://www.haskell.org/)
 
 ### JavaScript(ジャバスクリプト)
-https://developer.mozilla.org/ja/docs/Web/JavaScript
+[Link](https://developer.mozilla.org/ja/docs/Web/JavaScript)
 
 ### Kotlin(コトリン)
-https://developer.android.com/kotlin
+[Link](https://developer.android.com/kotlin)
 
 ### Matlab(マットラブ)
-https://jp.mathworks.com/products/matlab.html
+[Link](https://jp.mathworks.com/products/matlab.html)
 
 ### Perl(パール)
 
 ### Python(パイソン)
-https://www.python.org/
+[Link](https://www.python.org/)
 
 ### Ruby(ルビー)
-https://www.ruby-lang.org/ja/
+[Link](https://www.ruby-lang.org/ja/)
 
 ### Rust(ラスト)
-https://www.rust-lang.org/ja
+[Link](https://www.rust-lang.org/ja)
 
 ### Swift(スウィフト)
-https://www.apple.com/jp/swift/
+[Link](https://www.apple.com/jp/swift/)
 
 ### TypeScript(タイプスクリプト)
-https://www.typescriptlang.org/
+[Link](https://www.typescriptlang.org/)
