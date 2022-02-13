@@ -22,7 +22,7 @@ nav:
       - テキストエディタ/IDE: development/text_editor.md
     - インフラ:
       - OS: infra/os.md
-      - 構成管理: infra/configuration_management.md.md
+      - 構成管理: infra/configuration_management.md
       - コンテナ: infra/container.md
       - サーバー: infra/server.md
     - ライブラリ:
