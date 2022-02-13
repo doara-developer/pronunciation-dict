@@ -13,20 +13,24 @@ theme:
 
 nav:
     - IT用語読み方まとめ: index.md
-    - プログラミング言語: programming_language.md
+    - クラウドプラットフォーム:
+      - AWS: cloud/aws.md
+    - 開発環境:
+      - モバイル: development/mobile_app.md
+      - プログラミング言語: development/programming_language.md
+      - テストツール: development/testing.md
+      - テキストエディタ/IDE: development/text_editor.md
+    - インフラ:
+      - OS: infra/os.md
+      - 構成管理: infra/configuration_management.md.md
+      - コンテナ: infra/container.md
+      - サーバー: infra/server.md
     - ライブラリ:
       - CSS: library/css.md
       - JavaScript: library/javascript.md
+      - Php: library/php.md
       - Python: library/python.md
-      - モバイル: library/mobile_app.md
-      - テストツール: library/testing.md
-    - インフラ:
-      - OS: infra/os.md
-      - サーバー: infra/server.md
-      - 仮想環境: infra/vm.md
     - SaaS: saas.md
-    - クラウドプラットフォーム:
-      - AWS: cloud_service_platform/aws.md
 
 markdown_extensions:
     - admonition
