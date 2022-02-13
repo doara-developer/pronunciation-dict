@@ -1,1 +1,1 @@
-# pronunciation-dict
+# IT 用語カタカナ読みまとめ
