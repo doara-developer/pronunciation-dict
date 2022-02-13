@@ -8,7 +8,7 @@
 ### Elixir(エリクサー)
 [Link](https://elixir-lang.jp/)
 
-### Haskel(ハスケル)
+### Haskell(ハスケル)
 [Link](https://www.haskell.org/)
 
 ### JavaScript(ジャバスクリプト)
