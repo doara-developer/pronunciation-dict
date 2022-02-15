@@ -12,6 +12,10 @@
 
 [Link](https://nightwatchjs.org/)
 
+### Postman(ポストマン)
+
+[Link](https://www.postman.com/)
+
 ### Playwright(プレイライト)
 
 [Link](https://github.com/microsoft/playwright)
