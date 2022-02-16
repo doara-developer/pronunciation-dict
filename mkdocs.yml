@@ -21,10 +21,11 @@ nav:
       - テストツール: development/testing.md
       - テキストエディタ/IDE: development/text_editor.md
     - インフラ:
-      - OS: infra/os.md
       - 構成管理: infra/configuration_management.md
       - コンテナ: infra/container.md
       - データベース: infra/database.md
+      - Linuxコマンド: infra/linux_command.md
+      - OS: infra/os.md
       - サーバー: infra/server.md
     - ライブラリ:
       - CSS: library/css.md

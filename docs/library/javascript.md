@@ -32,6 +32,10 @@
 
 [Link](https://nuxtjs.org/ja/)
 
+### Prettier(プリティア)
+
+[Link](https://prettier.io/)
+
 ### React(リアクト)
 
 [Link](https://ja.reactjs.org/)
@@ -47,6 +51,10 @@
 ### Svelte(スヴェルト)
 
 [Link](https://svelte.jp/)
+
+### Three.js(スリードットジェイエス)
+
+[Link](https://threejs.org/)
 
 ### Vite(ヴィート)
 
