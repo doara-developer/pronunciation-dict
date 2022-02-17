@@ -25,6 +25,7 @@ nav:
       - コンテナ: infra/container.md
       - データベース: infra/database.md
       - Linuxコマンド: infra/linux_command.md
+      - 運用監視: infra/operation.md
       - OS: infra/os.md
       - サーバー: infra/server.md
     - ライブラリ:
