@@ -4,6 +4,10 @@
 
 [Link](https://github.com/PyCQA/bandit)
 
+### Cryptography(クリプトグラフィイ)
+
+[Link](https://cryptography.io/en/latest/)
+
 ### Flake8(フレイクエイト)
 
 [Link](https://flake8.pycqa.org/en/latest/)
@@ -15,6 +19,10 @@
 ### Flask(フラスク/フラスコ)
 
 [Link](https://flask.palletsprojects.com/)
+
+### Jinja2(ジンジャツー)
+
+[Link](https://jinja.palletsprojects.com/en/3.0.x/)
 
 ### Numpy(ナムパイ/ナンパイ)
 
@@ -33,6 +41,10 @@
 ### Poetry(ポエトリー)
 
 [Link](https://python-poetry.org/)
+
+### Pyramid(ピラミッド)
+
+[Link](http://docs.pylonsproject.jp/projects/pyramid-doc-ja/en/latest/)
 
 ### PyTorch(パイトーチ)
 

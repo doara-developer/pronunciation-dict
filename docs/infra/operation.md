@@ -23,3 +23,7 @@
 ### Re:dash(リダッシュ)
 
 [Link](https://redash.io/)
+
+### Zabbix(ザビックス)
+
+[Link](https://www.zabbix.com/jp)
