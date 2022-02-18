@@ -4,7 +4,7 @@
 
 [Link](https://www.elastic.co/jp/elasticsearch/)
 
-### Grafana（グラファナ）
+### Grafana(グラファナ)
 
 [Link](https://grafana.com/)
 
@@ -12,14 +12,14 @@
 
 [Link](https://www.elastic.co/jp/kibana/)
 
-### Logstash（ログスタッシュ）
+### Logstash(ログスタッシュ)
 
 [Link](https://www.elastic.co/jp/logstash/)
 
-### Prometheus（プロメテウス）
+### Prometheus(プロメテウス)
 
 [Link](https://prometheus.io/)
 
-### Re:dash（リダッシュ）
+### Re:dash(リダッシュ)
 
 [Link](https://redash.io/)
