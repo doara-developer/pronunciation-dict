@@ -4,6 +4,10 @@
 
 [Link](https://github.com/PyCQA/bandit)
 
+### Beautiful Soup(ビューティフル・スープ)
+
+[Link](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+
 ### Cryptography(クリプトグラフィイ)
 
 [Link](https://cryptography.io/en/latest/)
@@ -23,6 +27,10 @@
 ### Jinja2(ジンジャツー)
 
 [Link](https://jinja.palletsprojects.com/en/3.0.x/)
+
+### Mangum(マンガム)
+
+[Link](https://github.com/jordaneremieff/mangum)
 
 ### Numpy(ナムパイ/ナンパイ)
 

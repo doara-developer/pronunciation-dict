@@ -8,13 +8,17 @@
 
 [Link](https://github.com/axios/axios)
 
-### Enzyme(エンザイム)
+### Chai(チャイ)
 
-[Link](https://enzymejs.github.io/enzyme/)
+[Link](https://www.chaijs.com/)
 
 ### Deno(ディノ)
 
 [Link](https://deno.land/)
+
+### Enzyme(エンザイム)
+
+[Link](https://enzymejs.github.io/enzyme/)
 
 ### Express(エクスプレス)
 

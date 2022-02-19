@@ -8,10 +8,6 @@
 
 [Link](https://www.dropbox.com/)
 
-### GitLab(ギットラボ/ギットラブ)
-
-[Link](https://about.gitlab.com/)
-
 ### IFTTT(イフト)
 
 [Link](https://ifttt.com/)
@@ -23,10 +19,6 @@
 ### Tableau(タブロー)
 
 [Link](https://www.tableau.com/ja-jp)
-
-### Trello(トレロ)
-
-[Link](https://trello.com/ja)
 
 ### Yammer(ヤマー)
 
