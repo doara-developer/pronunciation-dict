@@ -4,6 +4,10 @@
 
 [Link](https://www.adobe.com/jp/)
 
+### Airbnb(エアビーアンドビー)
+
+[Link](https://www.airbnb.jp/)
+
 ### Dropbox(ドロップボックス)
 
 [Link](https://www.dropbox.com/)
@@ -16,9 +20,17 @@
 
 [Link](https://www.integromat.com/en)
 
+### Salesforce(セールスフォース)
+
+[Link](https://www.salesforce.com/jp/)
+
 ### Tableau(タブロー)
 
 [Link](https://www.tableau.com/ja-jp)
+
+### Twitter(ツイッター)
+
+[Link](https://twitter.com/home?lang=ja)
 
 ### Yammer(ヤマー)
 
