@@ -8,6 +8,10 @@
 
 [Link](https://www.airbnb.jp/)
 
+### Discord(ディスコード)
+
+[Link](https://discord.com/)
+
 ### Dropbox(ドロップボックス)
 
 [Link](https://www.dropbox.com/)
@@ -16,13 +20,29 @@
 
 [Link](https://ifttt.com/)
 
+### Instagram(インスタグラム)
+
+[Link](https://www.instagram.com/)
+
 ### Integromat(インテグロマット)
 
 [Link](https://www.integromat.com/en)
 
+### LinkedIn(リンクトイン)
+
+[Link](https://jp.linkedin.com/)
+
 ### Salesforce(セールスフォース)
 
 [Link](https://www.salesforce.com/jp/)
+
+### Slack(スラック)
+
+[Link](https://slack.com/intl/ja-jp/)
+
+### Spotify(スポティファイ)
+
+[Link](https://open.spotify.com/)
 
 ### Tableau(タブロー)
 
@@ -39,3 +59,7 @@
 ### Zapier(ザピアー)
 
 [Link](https://zapier.com/)
+
+### Zoom(ズーム)
+
+[Link](https://explore.zoom.us/ja/products/meetings/)

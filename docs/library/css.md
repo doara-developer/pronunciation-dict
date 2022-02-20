@@ -8,6 +8,10 @@
 
 [Link](https://bulma.io/)
 
+### Font Awesome(フォントオーサム)
+
+[Link](https://fontawesome.com/)
+
 ### Tailwind CSS(テイルウィンドシーエスエス)
 
 [Link](https://tailwindcss.com/)

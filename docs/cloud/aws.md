@@ -4,6 +4,10 @@
 
 [Link](https://aws.amazon.com/jp/cognito/)
 
+### Amazon Polly(ポリー)
+
+[Link](https://aws.amazon.com/jp/polly/)
+
 ### Amazon SageMaker(セージメイカー)
 
 [Link](https://aws.amazon.com/jp/sagemaker/)
