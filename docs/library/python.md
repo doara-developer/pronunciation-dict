@@ -46,6 +46,10 @@
 
 [Link](https://pipenv-ja.readthedocs.io/ja/translate-ja/)
 
+### Plotly(プロットリー)
+
+[Link](https://plotly.com/python/)
+
 ### Poetry(ポエトリー)
 
 [Link](https://python-poetry.org/)

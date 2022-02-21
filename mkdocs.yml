@@ -27,6 +27,7 @@ nav:
       - 構成管理: infra/configuration_management.md
       - コンテナ: infra/container.md
       - データベース: infra/database.md
+      - 分散処理: infra/distributed.md
       - Linuxコマンド: infra/linux_command.md
       - 運用監視: infra/operation.md
       - OS: infra/os.md

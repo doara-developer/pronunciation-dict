@@ -4,6 +4,10 @@
 
 [Link](https://www.telerik.com/fiddler)
 
+### Figma(フィグマ)
+
+[Link](https://www.figma.com/)
+
 ### GitHub(ギットハブ)
 
 [Link](https://github.co.jp/)

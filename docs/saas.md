@@ -28,6 +28,10 @@
 
 [Link](https://www.integromat.com/en)
 
+### Kaggle(カグル)
+
+[Link](https://www.kaggle.com/)
+
 ### LinkedIn(リンクトイン)
 
 [Link](https://jp.linkedin.com/)
@@ -47,6 +51,10 @@
 ### Tableau(タブロー)
 
 [Link](https://www.tableau.com/ja-jp)
+
+### Twilio(トゥイリオ)
+
+[Link](https://www.twilio.com/ja/)
 
 ### Twitter(ツイッター)
 
