@@ -37,7 +37,9 @@ nav:
       - JavaScript: library/javascript.md
       - Php: library/php.md
       - Python: library/python.md
-    - SaaS: saas.md
+    - SaaS:
+      - SNS: saas/sns.md
+      - その他: saas/other.md
 
 markdown_extensions:
     - admonition

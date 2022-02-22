@@ -1,4 +1,4 @@
-## SaaS(サーズ)
+## その他(SaaS)
 
 ### Adobe(アドビ)
 
@@ -8,9 +8,17 @@
 
 [Link](https://www.airbnb.jp/)
 
+### DeepL(ディープエル)
+
+[Link](https://www.deepl.com/translator)
+
 ### Discord(ディスコード)
 
 [Link](https://discord.com/)
+
+### DocuSign(ドキュサイン)
+
+[Link](https://www.docusign.jp/)
 
 ### Dropbox(ドロップボックス)
 
@@ -19,10 +27,6 @@
 ### IFTTT(イフト)
 
 [Link](https://ifttt.com/)
-
-### Instagram(インスタグラム)
-
-[Link](https://www.instagram.com/)
 
 ### Integromat(インテグロマット)
 
@@ -35,6 +39,14 @@
 ### LinkedIn(リンクトイン)
 
 [Link](https://jp.linkedin.com/)
+
+### Mailchimp(メールチンプ)
+
+[Link](https://mailchimp.com/)
+
+### Notion(ノーション)
+
+[Link](https://www.notion.so/product?fredir=1)
 
 ### Salesforce(セールスフォース)
 
@@ -55,14 +67,6 @@
 ### Twilio(トゥイリオ)
 
 [Link](https://www.twilio.com/ja/)
-
-### Twitter(ツイッター)
-
-[Link](https://twitter.com/home?lang=ja)
-
-### Yammer(ヤマー)
-
-[Link](https://www.microsoft.com/ja-jp/microsoft-365/yammer/yammer-overview)
 
 ### Zapier(ザピアー)
 
