@@ -12,6 +12,10 @@
 
 [Link](https://www.gnu.org/software/emacs/)
 
+### IntelliJ IDEA(インテリジェイ・アイデア)
+
+[Link](https://www.jetbrains.com/ja-jp/idea/)
+
 ### PyCharm(パイチャーム)
 
 [Link](https://www.jetbrains.com/ja-jp/pycharm/)

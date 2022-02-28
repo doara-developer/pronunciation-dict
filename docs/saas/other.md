@@ -8,13 +8,13 @@
 
 [Link](https://www.airbnb.jp/)
 
+### Auth0(オースゼロ)
+
+[Link](https://auth0.com/jp)
+
 ### DeepL(ディープエル)
 
 [Link](https://www.deepl.com/translator)
-
-### Discord(ディスコード)
-
-[Link](https://discord.com/)
 
 ### DocuSign(ドキュサイン)
 
@@ -44,6 +44,10 @@
 
 [Link](https://mailchimp.com/)
 
+### New Relic(ニューレリック)
+
+[Link](https://newrelic.com/jp)
+
 ### Notion(ノーション)
 
 [Link](https://www.notion.so/product?fredir=1)
@@ -55,6 +59,10 @@
 ### Slack(スラック)
 
 [Link](https://slack.com/intl/ja-jp/)
+
+### Splunk(スプランク)
+
+[Link](https://www.splunk.com/ja_jp)
 
 ### Spotify(スポティファイ)
 
@@ -72,6 +80,6 @@
 
 [Link](https://zapier.com/)
 
-### Zoom(ズーム)
+### Zscaler(ゼットスケーラー)
 
-[Link](https://explore.zoom.us/ja/products/meetings/)
+[Link](https://www.zscaler.jp/)
