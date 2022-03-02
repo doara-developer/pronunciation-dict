@@ -28,6 +28,10 @@
 
 [Link](https://jinja.palletsprojects.com/en/3.0.x/)
 
+### Keras(ケラス)
+
+[Link](https://keras.io/ja/)
+
 ### Mangum(マンガム)
 
 [Link](https://github.com/jordaneremieff/mangum)

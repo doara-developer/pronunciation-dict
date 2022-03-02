@@ -60,6 +60,10 @@
 
 [Link](https://storybook.js.org/)
 
+### SuperAgent(スーパーエージェント)
+
+[Link](https://github.com/visionmedia/superagent)
+
 ### Svelte(スヴェルト)
 
 [Link](https://svelte.jp/)

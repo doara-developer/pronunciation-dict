@@ -44,6 +44,14 @@
 
 [Link](https://mailchimp.com/)
 
+### Microsoft Intune(マイクロソフト インチューン)
+
+[Link](https://docs.microsoft.com/ja-jp/mem/intune/fundamentals/what-is-intune)
+
+### n8n(エヌエイトエヌ)
+
+[Link](https://n8n.io/)
+
 ### New Relic(ニューレリック)
 
 [Link](https://newrelic.com/jp)
@@ -55,6 +63,10 @@
 ### Salesforce(セールスフォース)
 
 [Link](https://www.salesforce.com/jp/)
+
+### ServiceNow(サービスナウ)
+
+[Link](https://www.servicenow.co.jp/)
 
 ### Slack(スラック)
 

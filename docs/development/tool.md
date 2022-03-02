@@ -1,5 +1,9 @@
 ## 開発ツール
 
+### CodePen(コードペン)
+
+[Link](https://codepen.io/)
+
 ### Fiddler(フィドゥラー)
 
 [Link](https://www.telerik.com/fiddler)
@@ -19,6 +23,10 @@
 ### Jira(ジラ)
 
 [Link](https://www.atlassian.com/ja/software/jira)
+
+### JSFiddle(ジェイエスフィドル)
+
+[Link](https://jsfiddle.net/)
 
 ### LibreOffice(リブレオフィス)
 

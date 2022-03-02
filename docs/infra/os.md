@@ -1,5 +1,9 @@
 ## OS
 
+### AlmaLinux(アルマリナックス)
+
+[Link](https://almalinux.org/ja/)
+
 ### Alpine Linux(アルパイン・リナックス)
 
 [Link](https://alpinelinux.org/)
