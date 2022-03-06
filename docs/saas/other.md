@@ -24,14 +24,6 @@
 
 [Link](https://www.dropbox.com/)
 
-### IFTTT(イフト)
-
-[Link](https://ifttt.com/)
-
-### Integromat(インテグロマット)
-
-[Link](https://www.integromat.com/en)
-
 ### Kaggle(カグル)
 
 [Link](https://www.kaggle.com/)
@@ -47,10 +39,6 @@
 ### Microsoft Intune(マイクロソフト インチューン)
 
 [Link](https://docs.microsoft.com/ja-jp/mem/intune/fundamentals/what-is-intune)
-
-### n8n(エヌエイトエヌ)
-
-[Link](https://n8n.io/)
 
 ### New Relic(ニューレリック)
 
@@ -87,10 +75,6 @@
 ### Twilio(トゥイリオ)
 
 [Link](https://www.twilio.com/ja/)
-
-### Zapier(ザピアー)
-
-[Link](https://zapier.com/)
 
 ### Zscaler(ゼットスケーラー)
 
