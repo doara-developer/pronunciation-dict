@@ -32,6 +32,10 @@
 
 [Link](https://www.jaegertracing.io/)
 
+### Knative(ケイネイティブ)
+
+[Link](https://knative.dev/docs/)
+
 ### Kubernetes(クバネティス/クバネテス/クーべネティス/クーバーニーツ)
 
 [Link](https://github.com/kubernetes/kubernetes)

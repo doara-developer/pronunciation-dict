@@ -12,6 +12,10 @@
 
 [Link](https://puppet.com/try-puppet/open-source-puppet/)
 
+### HashiCorp(ハシコープ)
+
+[Link](https://www.hashicorp.com/)
+
 ### Terraform(テラフォーム)
 
 [Link](https://www.terraform.io/)

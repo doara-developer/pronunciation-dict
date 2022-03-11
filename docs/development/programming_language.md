@@ -20,6 +20,10 @@
 
 [Link](https://developer.mozilla.org/ja/docs/Web/JavaScript)
 
+### Julia(ジュリア)
+
+[Link](https://julialang.org/)
+
 ### Kotlin(コトリン)
 
 [Link](https://developer.android.com/kotlin)
