@@ -34,6 +34,10 @@
 
 ### Perl(パール)
 
+### PHP(ピーエイチピー)
+
+[Link](https://www.php.net/)
+
 ### Python(パイソン)
 
 [Link](https://www.python.org/)

@@ -1,5 +1,9 @@
 ## AWS
 
+### Amazon Athena(アテナ)
+
+[Link](https://aws.amazon.com/jp/athena/)
+
 ### Amazon Cognito(コグニート)
 
 [Link](https://aws.amazon.com/jp/cognito/)
@@ -19,6 +23,10 @@
 ### AWS Fargate(ファーゲート)
 
 [Link](https://aws.amazon.com/jp/fargate/)
+
+### AWS Glue(グルー)
+
+[Link](https://aws.amazon.com/jp/glue/)
 
 ### AWS Lambda(ラムダ)
 

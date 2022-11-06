@@ -4,6 +4,10 @@
 
 [Link](https://argo-cd.readthedocs.io/en/stable/)
 
+### Bitrise(ビットライズ)
+
+[Link](https://www.bitrise.io/)
+
 ### CircleCI(サークル シーアイ)
 
 [Link](https://circleci.com/ja/)
