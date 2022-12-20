@@ -36,6 +36,7 @@ nav:
       - OS: infra/os.md
       - サーバー: infra/server.md
     - ライブラリ:
+      - C#: library/csharp.md
       - CSS: library/css.md
       - JavaScript: library/javascript.md
       - Php: library/php.md
