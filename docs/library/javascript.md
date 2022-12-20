@@ -40,6 +40,10 @@
 
 [Link](https://nuxtjs.org/ja/)
 
+### Pinia(ピニア)
+
+[Link](https://pinia.vuejs.org/)
+
 ### Prettier(プリティア)
 
 [Link](https://prettier.io/)

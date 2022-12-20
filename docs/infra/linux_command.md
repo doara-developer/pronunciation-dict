@@ -18,6 +18,8 @@
 
 [Link](https://brew.sh/index_ja)
 
+### journalctl(ジャーナルコントロール)
+
 ### tar(ター)
 
 ### yum(ヤム/ユム)
