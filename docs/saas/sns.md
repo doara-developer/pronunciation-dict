@@ -4,6 +4,10 @@
 
 [Link](https://www.instagram.com/)
 
+### Mastodon(マストドン)
+
+[Link](https://joinmastodon.org/ja)
+
 ### TikTok(ティックトック)
 
 [Link](https://www.tiktok.com/ja-JP/)

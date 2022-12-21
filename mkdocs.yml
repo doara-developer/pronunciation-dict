@@ -38,6 +38,7 @@ nav:
     - ライブラリ:
       - C#: library/csharp.md
       - CSS: library/css.md
+      - Java: library/java.md
       - JavaScript: library/javascript.md
       - Php: library/php.md
       - Python: library/python.md
