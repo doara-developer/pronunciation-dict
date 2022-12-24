@@ -12,13 +12,17 @@
 
 [Link](https://cryptography.io/en/latest/)
 
-### Flake8(フレイクエイト)
-
-[Link](https://flake8.pycqa.org/en/latest/)
-
 ### Django(ジャンゴ)
 
 [Link](https://docs.djangoproject.com/ja/)
+
+### FastAPI(ファストエーピーアイ)
+
+[Link](https://fastapi.tiangolo.com/ja/)
+
+### Flake8(フレイクエイト)
+
+[Link](https://flake8.pycqa.org/en/latest/)
 
 ### Flask(フラスク/フラスコ)
 
@@ -65,3 +69,7 @@
 ### PyTorch(パイトーチ)
 
 [Link](https://pytorch.org/)
+
+### Scrapy(スクレイピー)
+
+[Link](https://scrapy.org/)

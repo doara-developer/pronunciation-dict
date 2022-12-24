@@ -12,6 +12,10 @@
 
 [Link](https://auth0.com/jp)
 
+### Concur(コンカー)
+
+[Link](https://www.concur.co.jp/)
+
 ### DeepL(ディープエル)
 
 [Link](https://www.deepl.com/translator)
@@ -27,10 +31,6 @@
 ### Kaggle(カグル)
 
 [Link](https://www.kaggle.com/)
-
-### LinkedIn(リンクトイン)
-
-[Link](https://jp.linkedin.com/)
 
 ### Mailchimp(メールチンプ)
 
@@ -71,10 +71,6 @@
 ### Tableau(タブロー)
 
 [Link](https://www.tableau.com/ja-jp)
-
-### Twilio(トゥイリオ)
-
-[Link](https://www.twilio.com/ja/)
 
 ### Zscaler(ゼットスケーラー)
 

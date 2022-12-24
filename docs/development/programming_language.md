@@ -12,6 +12,10 @@
 
 [Link](https://elixir-lang.jp/)
 
+### Erlang(アーラン)
+
+[Link](https://www.erlang.org/)
+
 ### Haskell(ハスケル)
 
 [Link](https://www.haskell.org/)

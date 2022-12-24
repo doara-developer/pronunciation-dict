@@ -1,9 +1,5 @@
 ## テスト
 
-### Apache JMeter(アパッチ ジェイメーター)
-
-[Link](https://jmeter.apache.org/)
-
 ### Cucumber(キューカンバー)
 
 [Link](https://cucumber.io/)

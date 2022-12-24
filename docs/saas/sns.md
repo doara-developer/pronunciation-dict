@@ -4,6 +4,10 @@
 
 [Link](https://www.instagram.com/)
 
+### LinkedIn(リンクトイン)
+
+[Link](https://jp.linkedin.com/)
+
 ### Mastodon(マストドン)
 
 [Link](https://joinmastodon.org/ja)
