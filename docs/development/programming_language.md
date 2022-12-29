@@ -54,6 +54,10 @@
 
 [Link](https://www.rust-lang.org/ja)
 
+### Scala(スカラ)
+
+[Link](https://www.scala-lang.org/)
+
 ### Swift(スウィフト)
 
 [Link](https://www.apple.com/jp/swift/)

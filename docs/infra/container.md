@@ -44,6 +44,10 @@
 
 [Link](https://linkerd.io/)
 
+### Minikube(ミニキューブ)
+
+[Link](https://minikube.sigs.k8s.io/docs/start/)
+
 ### Podman(ポッドマン)
 
 [Link](https://podman.io/)

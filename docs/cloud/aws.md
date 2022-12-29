@@ -4,6 +4,10 @@
 
 [Link](https://aws.amazon.com/jp/athena/)
 
+### Amazon Chime(チャイム)
+
+[Link](https://aws.amazon.com/jp/chime/)
+
 ### Amazon Cognito(コグニート)
 
 [Link](https://aws.amazon.com/jp/cognito/)

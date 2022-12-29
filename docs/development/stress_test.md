@@ -8,6 +8,10 @@
 
 [Link](https://www.artillery.io/)
 
+### Gatling(ガトリング)
+
+[Link](https://gatling.io/)
+
 ### Locust(ロウカスト)
 
 [Link](https://locust.io/)

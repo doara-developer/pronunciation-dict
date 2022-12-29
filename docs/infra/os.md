@@ -20,6 +20,10 @@
 
 [Link](https://www.kernel.org/)
 
+### Red Hat Linux(レッドハット・リナックス)
+
+[Link](https://www.redhat.com/ja/technologies/linux-platforms/enterprise-linux)
+
 ### Solaris(ソラリス)
 
 [Link](https://www.oracle.com/jp/solaris/)
